@@ -1,0 +1,14 @@
+{
+    "authors": [
+        "tanitta"
+    ],
+    "copyright": "Copyright © 2017, tanitta",
+    "dependencies": {
+        "armos": "0.0.3+commit.203.g481f0ff", 
+        "osc-d": {"path":"../osc-d"}, 
+        "typescreen": {"path":"../typescreen"}
+    },
+    "description": "A minimal D application.",
+    "license": "proprietary",
+    "name": "alight"
+}
